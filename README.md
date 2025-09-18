@@ -39,7 +39,6 @@ I recently started my journey into the fascinating world of **programming** and 
 
 ## 🤝 Let’s connect !
 - [LinkedIn](https://www.linkedin.com/) 🔗
-- [GitHub](https://github.com/ton-pseudo-github) 👨‍💻  
 
 ---
 
