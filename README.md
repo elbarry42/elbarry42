@@ -1,5 +1,3 @@
-# elbarry
-profile description
 # 👨‍💻 Elhadj Amadou | Student at [**42 Lyon**](https://42lyon.fr/)
 
 Hi there 👋, I’m **Elhadj Amadou**, a new student at **École 42** 🎓.  
