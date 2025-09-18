@@ -1,4 +1,4 @@
-# 👨‍💻 Elhadj Amadou | Student at [**42 Lyon**](https://42lyon.fr/)
+# 👨‍💻 BARRY Elhadj Amadou | Student at [**42**](https://42lyon.fr/)
 
 Hi there 👋, I’m **Elhadj Amadou**, a new student at **École 42** 🎓.  
 I recently started my journey into the fascinating world of **programming** and I’m motivated to learn, grow, and share my progress here on GitHub 🚀.  
