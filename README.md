@@ -38,7 +38,7 @@ I recently started my journey into the fascinating world of **programming** and 
 ---
 
 ## 🤝 Let’s connect !
-- [LinkedIn](https://www.linkedin.com/) 🔗
+- [LinkedIn](https://www.linkedin.com/elhadj-amadou-barry-157b3b385) 🔗
 
 ---
 
