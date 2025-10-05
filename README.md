@@ -15,7 +15,7 @@
 
    <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
-# 👨‍💻 Elhadj Amadou BARRY  |  Étudiant à [**42**](https://www.42lyon.fr/).
+# 👨‍💻 Elhadj Amadou BARRY  |   Étudiant à [**42**](https://www.42lyon.fr/).
 
 - Hey 👋, moi c'est **elbarry**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du [**CODE**]
 ---
@@ -25,11 +25,10 @@
 - 🧠 Exploration de la **Cybersecurité**
 
 ## 🚀 Outils & Technologies que j'utilise :
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
 </p>
 
 
