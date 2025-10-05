@@ -15,7 +15,7 @@
 
    <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
-# 👨‍💻 Elhadj Amadou BARRY | Étudiant à [**42**](https://www.42lyon.fr/).
+# 👨‍💻 Elhadj Amadou BARRY  |  Étudiant à [**42**](https://www.42lyon.fr/).
 
 - Hey 👋, moi c'est **elbarry**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du [**CODE**]
 ---
@@ -27,10 +27,6 @@
 ## 🚀 Outils & Technologies que j'utilise :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40" title="Angular"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" title="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" title="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
@@ -44,15 +40,7 @@
 <div align="center">
 
 <a href="https://github.com/elbarry42/libft">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/libftm.png)</a>
-<a href="https://github.com/elbarry42/get_next_line">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/elbarry42/ft_printf">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/elbarry42/Born2beroot">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/elbarry42/push_swap">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/elbarry42/FdF">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/fdfm.png)</a>
-<a href="https://github.com/elbarry42/Pipex">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/elbarry42/Philosophers">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/philosophersm.png)</a>
-<a href="https://github.com/elbarry42/MiniShell">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/minishelle.png)</a>
-<a href="https://github.com/elbarry42/NetPractice">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/netpracticee.png)</a>
+
 </div>
 
 ---
@@ -61,12 +49,7 @@
 
 ---
 ### 🚩 Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-ff3e00?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white" alt="Étudiant à 42"/>
 </p>
