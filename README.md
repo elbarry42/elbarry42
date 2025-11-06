@@ -3,7 +3,7 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=elbarry42&show_icons=true&theme=gruvbox&count_private=true" alt="elbarry42's GitHub stats" style="max-width: 400px; max-height: 1500px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbarry42&hide=java,html,css&layout=compact&theme=radical&hide_title=false" alt="Top Languages" style="max-width: 500px; max-height: 1500px; border-radius: 18px; box-shadow: -7px 5px -7px rgba(0, 0, 0, 0.1);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbarry42&amp;layout=compact&amp;theme=radical&amp;hide=Java,HTML,CSS" alt="Top Languages" width="500" />
   </div>
 
   <!-- Graphique en dessous -->
