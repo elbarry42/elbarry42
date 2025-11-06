@@ -17,7 +17,7 @@
 
 # 👨‍💻 Elhadj Amadou BARRY  |   Étudiant à [**42**](https://www.42lyon.fr/).
 
-- Hey 👋, moi c'est **elbarry**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du [**CODE**]
+- Hey 👋, moi c'est **elbarry**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Actuellement au Tronc Commun de 42, je perfectionne mes compétences en **développement informatique** tout en explorant le monde captivant de la **cybersécurité**.
 ---
 
 ## 💡 Ce sur quoi je travaille actuellement :
