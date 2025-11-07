@@ -12,25 +12,29 @@
 
    <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
-# 👨‍💻 Elhadj Amadou BARRY  |   Étudiant à [**42**](https://www.42lyon.fr/).
+# 👨‍💻 Elhadj Amadou BARRY  |   Student at [**42**](https://www.42lyon.fr/)
 
-- Hey 👋, moi c'est **elbarry**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Actuellement au Tronc Commun de 42, je perfectionne mes compétences en **développement informatique** tout en explorant le monde captivant de la **cybersécurité**.
+- Hey 👋, I’m **elbarry**, a student at **École 42** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
+  Currently enrolled in the **Core Curriculum** at 42, I’m refining my skills in **software development** while exploring the fascinating world of **cybersecurity**.
+
 ---
 
-## 💡 Ce sur quoi je travaille actuellement :
-- 🔧 Projets en **C** à l'École 42
-- 🧠 Exploration de la **Cybersecurité**
+## 💡 What I’m currently working on:
+- 🔧 **C projects** at 42  
+- 🧠 Exploring **Cybersecurity**
 
-## 🚀 Outils & Technologies que j'utilise :
+---
+
+## 🚀 Tools & Technologies I use:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
 </p>
 
-
 ---
-### 42 School Projects
+
+### 🧩 42 School Projects
 ---
 <div align="center">
 
@@ -40,18 +44,18 @@
 
 ---
 
-> *💻 Les amateurs codent pour que ça fonctionne 🤷‍♂️, les maîtres codent pour que ça ne casse jamais 💪🔥🚀.*
+> *💻 Amateurs code to make it work 🤷‍♂️, masters code so it never breaks 💪🔥🚀.*
 
 ---
-### 🚩 Badges
 
+### 🚩 Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white" alt="Étudiant à 42"/>
+  <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white" alt="Student at 42"/>
 </p>
 
 ---
 
-## 📊 Mes Statistiques GitHub :
+## 📊 GitHub Stats:
 <div align="center">
 
 <a href="https://github.com/elbarry42">
@@ -59,17 +63,15 @@
 </a>
 </div>
 
+---
 
-
-## 🤔 N'hésite pas à me contacter si tu veux discuter :
-- **C** 💻
+## 🤔 Feel free to reach out if you want to chat about:
+- **C** 💻  
 - **C++** 🔧
 
-### Connectons-nous ! 🤝
-
+### Let’s connect! 🤝
 - [LinkedIn](https://www.linkedin.com/in/elhadj-amadou-barry-157b3b385) 🔗
-
 
 ---
 
-✨ Merci d'avoir visité mon profil, et n'oubliez pas de jeter un coup d'œil à mes projets ! 🚀
+✨ Thanks for visiting my profile, and don’t forget to check out my projects! 🚀
