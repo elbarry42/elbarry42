@@ -14,7 +14,7 @@
 
 # 👨‍💻 Elhadj Amadou BARRY  |   Student at [**42**](https://www.42lyon.fr/)
 
-- Hey 👋, I’m **elbarry**, a student at **École 42** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
+- Hey 👋, I’m **elbarry**, a student at **42 School** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
   Currently enrolled in the **Core Curriculum** at 42, I’m refining my skills in **software development** while exploring the fascinating world of **cybersecurity**.
 
 ---
