@@ -43,7 +43,6 @@
 <a href="https://github.com/elbarry42/get_next_line">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/elbarry42/born2beroot">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/born2beroote.png)</a>
 <a href="https://github.com/elbarry42/push_swap">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/elbarry42/push_swap">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/push_swape.png)</a>
 
 </div>
 
