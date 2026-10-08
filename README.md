@@ -14,8 +14,7 @@
 
 # 👨‍💻 Elhadj Amadou BARRY  |   Student at [**42**](https://www.42lyon.fr/)
 
-- Hey 👋, I’m **elbarry**, a student at **42 Lyon** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
-  Currently enrolled in the **Common Core**, I’m developing my skills in **C, C++, and Python**, with a growing interest in **software development, systems programming, and cybersecurity**. 🔐
+- Hey 👋, I’m **elbarry**, a student at **42 Lyon** 🎓 passionate about programming and always ready to take on new technical challenges 💻. Currently enrolled in the **Common Core**, I’m developing my skills in **C, C++, and Python**, with a growing interest in **software development, systems programming, and cybersecurity**. 🔐
 
 ---
 
