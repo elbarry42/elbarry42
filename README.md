@@ -14,14 +14,16 @@
 
 # 👨‍💻 Elhadj Amadou BARRY  |   Student at [**42**](https://www.42lyon.fr/)
 
-- Hey 👋, I’m **elbarry**, a student at **42 School** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
-  Currently enrolled in the **Core Curriculum** at 42, I’m refining my skills in **software development** while exploring the fascinating world of **cybersecurity**.
+- Hey 👋, I’m **elbarry**, a student at **42 Lyon** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
+  Currently enrolled in the **Common Core**, I’m developing my skills in **C, C++, and Python**, with a growing interest in **software development, systems programming, and cybersecurity**. 🔐
 
 ---
 
 ## 💡 What I’m currently working on:
-- 🔧 **C projects** at 42  
-- 🧠 Exploring **Cybersecurity**
+- 🔧 **C & C++ projects** at 42
+- 🐍 **Python projects** — algorithms, data & OOP
+- 🧠 **Algorithms & Systems Programming**
+- 🔐 Exploring **Cybersecurity & Penetration Testing**
 
 ---
 
@@ -31,6 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
 </p>
+- **C / C++ / Python**
+- **Git & GitHub**
+- **Linux / Unix**
+- **CMake / Make**
+- **SQL / PostgreSQL**
+- **GDB / Valgrind**
 
 ---
 
@@ -70,8 +78,10 @@
 ---
 
 ## 🤔 Feel free to reach out if you want to chat about:
-- **C** 💻  
-- **C++** 🔧
+- **C / C++ / Python** 💻
+- **Algorithms & Systems Programming** ⚙️
+- **Cybersecurity & Pentesting** 🔐
+- **42 & Software Development** 🚀
 
 ### Let’s connect! 🤝
 - [LinkedIn](https://www.linkedin.com/in/elhadj-amadou-barry-157b3b385) 🔗
